@@ -1,0 +1,6 @@
+{
+  "name": "Kids Songs & Nursery Rhymes",
+  "description": "Animated songs, alphabet lessons, bedtime stories, and interactive musical games for toddlers to enhance early learning and engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
